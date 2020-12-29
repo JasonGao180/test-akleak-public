@@ -1,7 +1,7 @@
-# jasongao@aliyun.com accesskey
+# test-leak@jasongao
 
-AccessKeyId = LTAI4G6ZTRqJUwokqthqNJQg
-AccessKeySecret = cVMGFaV5qpqsZbxuvogCbt5X5Xx4Ln
+AccessKeyId = LTAI4G5a9YVdweQzSQDGZEri
+AccessKeySecret = UyntWruT9HDVVCBT95
 
 
 
