@@ -1,7 +1,7 @@
 #### test-leak@jasongao
-AccessKeyId = LTAI4FzqgkEbLy8akJBwYTPX
-AccessKeySecret = epoXHkLO1R1kUHxk81dF9sbQDpTc1T
+AccessKeyId = LTAI4GDDuDroth3ztSiq9st2
+AccessKeySecret = YTtIvfbjAov7lvgfkhSa6S1ugZI4ch
 ##### ak-leak@awsgao
-AccessKeyId = AKIA6OLLEK2UASIOXO7L
-AccessKeySecret = 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
+AccessKeyId = AKIA6OLLEK2UHU27C4UO
+AccessKeySecret = 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
 
